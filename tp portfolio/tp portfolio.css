@@ -1,0 +1,8 @@
+
+header{ 
+    display: grid;
+    background-color: #424242;
+    grid-column: 1/ span 2;
+    grid-row: 1;
+    height: 100px;
+}
